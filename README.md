@@ -13,7 +13,7 @@ cara kerja :
 5. npm i --save-dev @types/bcrypt.
 ![image](https://github.com/user-attachments/assets/aa695f28-bdee-49a8-b997-8e716ce7d393)
 6. npm i --save-dev @types/jsonwebtoken.
-![image](https://github.com/user-attachments/assets/ba79ec78-d9c5-44c2-9ad9-5f9942aeb95e)
+![image](https://github.com/user-attachments/assets/b1fbd0c5-a2f5-4c4f-b94b-f8c02ee3c76f)
 7. setelah itu buatlah file `.env`.
 ```
 MONGODB_URI=mongodb://daniwahyuaa:6WN3vZZeeJJWSOSM@cluster0-shard-00-00.mongodb.net:27017,cluster0-shard-00-01.mongodb.net:27017,cluster0-shard-00-02.mongodb.net:27017/sample_mflix?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true
